@@ -2,10 +2,10 @@
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/jamuk1401/onboard.git/README.md)
-![GitHub contributors](https://img.shields.io/github/contributors/jamuk1401/onboard.git/README.md)
-![GitHub stars](https://img.shields.io/github/stars/jamuk1401/onboard.git/README.md?style=social)
-![GitHub forks](https://img.shields.io/github/forks/jamuk1401/onboard.git/README.md?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/jamuk1401/onboard)
+![GitHub contributors](https://img.shields.io/github/contributors/jamuk1401/onboard)
+![GitHub stars](https://img.shields.io/github/stars/jamuk1401/onboard?style=social)
+![GitHub forks](https://img.shields.io/github/forks/jamuk1401/onboard?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/jam1401?style=social)
 
 This project contains the following components

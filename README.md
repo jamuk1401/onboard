@@ -52,4 +52,4 @@ he output can also be displayed on the command line using the following command
 
 `mosquitto_sub -h localhost  -p 1883 --topic ortus/oboard/+ --remove-retained` and example of the output is shown [here](https://drive.google.com/file/d/1dGo21req2URmTSca-qbTJ8QyGpbdj3pB/view?usp=sharing)
 
-The flutter UI can be run as a Mac App or a Web app. It can also be simply built and deployed for IOS and Android on a fully cloud deployed solution. The output can be seen [here](https://drive.google.com/file/d/1dI8rDulktmakJAeIiAaY951zfPCAzUZ0/view?usp=sharing)
+The flutter UI can be run as a Mac App or a Web app. It can also be simply built and deployed for IOS and Android on a fully cloud deployed solution. The output can be seen [here](https://drive.google.com/file/d/1dI8rDulktmakJAeIiAaY951zfPCAzUZ0/view?usp=sharing) and on the IOS simulator [here](https://drive.google.com/file/d/1e68MKVPE_mVhqCOX4fgpmwUSx319aU8j/view?usp=sharing)
